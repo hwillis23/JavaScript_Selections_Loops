@@ -9,6 +9,7 @@ for (let num = 1; num <= 100; num++) {
   } else {
     continue;
   }
+  
 }
 
 // Exercise 2 Section
