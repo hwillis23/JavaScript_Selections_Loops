@@ -9,14 +9,14 @@ for (let num = 1; num <= 100; num++) {
   } else {
     continue;
   }
-  
+
 }
 
 // Exercise 2 Section
 console.log("EXERCISE 2:\n==========\n");
 
 for(let i = 0; i <= 100; i++){
-    if( i % 3 == 0 && i %5 == 0){
+    if( i % 3 == 0 && i %5 == 0) {
         console.log(`${i} FIZZBUZZ`);
     }else if (i %3 == 0){
         console.log(`${i} Fizz`);
